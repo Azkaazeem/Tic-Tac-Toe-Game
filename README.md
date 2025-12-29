@@ -6,7 +6,8 @@ A sleek, professional, and fully responsive Tic Tac Toe game built with modern w
 ---
 
 ## 📸 Preview
-![Project Screenshot](<img width="1919" height="966" alt="image" src="https://github.com/user-attachments/assets/c0301027-f6f2-4eb6-8625-ef626936fa5a" />)
+![Project Screenshot]<img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/c7bf4e1c-4f33-40f0-9d90-c0d70c71f5cc" />
+
 > *Replace 'screenshot.png' with your actual game image to show it off!*
 
 ---
